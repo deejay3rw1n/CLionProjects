@@ -1,3 +1,0 @@
-C:/Users/Administrator.PC-NNJGR3H19SVR/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir
-C:/Users/Administrator.PC-NNJGR3H19SVR/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Administrator.PC-NNJGR3H19SVR/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
