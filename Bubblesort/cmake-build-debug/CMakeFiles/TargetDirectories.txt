@@ -1,0 +1,3 @@
+C:/Users/Administrator.PC-NNJGR3H19SVR/CLionProjects/Bubblesort/cmake-build-debug/CMakeFiles/Bubblesort.dir
+C:/Users/Administrator.PC-NNJGR3H19SVR/CLionProjects/Bubblesort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator.PC-NNJGR3H19SVR/CLionProjects/Bubblesort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

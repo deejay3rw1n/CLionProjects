@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+    int numbers[] = {5, 3, 8, 4, 9, 1, 6, 7, 2, 0};
+    int n = sizeof(numbers) / sizeof(int);
+
+    for (int i = 0; i < n - 1; i++) {
+        for (int j = 0; j < n - i - 1; j++) {
+            if (numbers[j] > numbers[j + 1]) {
+                int temp = numbers[j];
+                numbers[j] = numbers[j + 1];
+                numbers[j + 1] = temp;
+            }
+        }
+    }
+
+    for (int i = 0; i < n; i++) {
+        cout << numbers[i] << " ";
+    }
+
+    return 0;
+}

@@ -1,0 +1,12 @@
+# ninja log v5
+3	199	7136973284907960	build.ninja	3af23147eda1b16c
+0	1607	7136974262253238	CMakeFiles/wuerfelnoncrack.dir/main.cpp.obj	de44d0782d3ec9ad
+1610	1765	7136974263819068	wuerfelnoncrack.exe	5b38a0547628fdf
+4	1576	7136975047311566	CMakeFiles/wuerfelnoncrack.dir/main.cpp.obj	de44d0782d3ec9ad
+1577	1701	7136975048534303	wuerfelnoncrack.exe	5b38a0547628fdf
+4	1354	7136975364041242	CMakeFiles/wuerfelnoncrack.dir/main.cpp.obj	de44d0782d3ec9ad
+1354	1452	7136975364948349	wuerfelnoncrack.exe	5b38a0547628fdf
+3	468	7136980996252140	CMakeFiles/wuerfelnoncrack.dir/main.cpp.obj	de44d0782d3ec9ad
+469	580	7136980997308889	wuerfelnoncrack.exe	5b38a0547628fdf
+3	419	7136981905294991	CMakeFiles/wuerfelnoncrack.dir/main.cpp.obj	de44d0782d3ec9ad
+420	522	7136981906267559	wuerfelnoncrack.exe	5b38a0547628fdf
